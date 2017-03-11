@@ -1,0 +1,9 @@
+{
+  "presets": ["es2015", "react"],
+  "sourceMaps": true,
+  "plugins": [
+    "transform-class-properties",
+    "transform-flow-strip-types"
+  ]
+}
+

@@ -1,0 +1,25 @@
+# Apple
+.DS_Store
+.AppleDouble
+
+# Thumbnails
+._*
+
+# Logs
+*.log
+
+# Coverage directory used by tools like istanbul
+coverage
+
+# Dependency directory
+node_modules
+public/bundle.js
+public/bundle.js.map
+public/bundle.css
+public/bundle.css.map
+.nyc_output
+
+# Distribution
+dist/*
+!dist/.gitkeep
+
