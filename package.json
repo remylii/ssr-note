@@ -6,6 +6,7 @@
   "license": "MIT",
   "dependencies": {
     "autoprefixer": "^6.7.6",
+    "babel-cli": "^6.24.0",
     "babel-core": "^6.23.1",
     "babel-eslint": "^7.1.1",
     "babel-loader": "^6.4.0",
@@ -20,6 +21,7 @@
     "flow-bin": "^0.41.0",
     "flowtype": "^2.0.0",
     "flux": "^3.1.2",
+    "lodash": "^4.17.4",
     "postcss": "^5.2.16",
     "postcss-cli": "^3.0.0-beta",
     "postcss-easy-import": "^2.0.0",
